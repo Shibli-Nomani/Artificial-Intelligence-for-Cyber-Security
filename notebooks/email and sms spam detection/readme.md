@@ -2,6 +2,10 @@
 <h1>🛡️ Defending Cyberspace: The Quest to Combat Spam with Machine Learning and AI 📧💥<h2>
 
   SMS and email spam detection 🛡️ is paramount in cybersecurity to shield users from phishing 🎣, malware 🦠, and fraud 💸 threats. Leveraging machine learning 🤖 and artificial intelligence 🧠, automated analysis of message content, sender behavior, and metadata enables accurate identification and filtering of spam, fortifying cybersecurity defenses and preserving user privacy and security.
+  ### 🐍 Code
+- Github Link: https://github.com/Shibli-Nomani/Artificial-Intelligence-for-Cyber-Security/blob/main/notebooks/email%20and%20sms%20spam%20detection/Detecting_Email_and_SMS_Security_Threads_with_AI.ipynb
+
+- Kaggle Link: https://www.kaggle.com/code/shiblinomani/detecting-email-and-sms-security-threads-with-ai/notebook
 
 <h1>💾 SMS Spam Collection</h1>
 The SMS Spam Collection is a public set of SMS labeled messages that have been collected for mobile phone spam research.
